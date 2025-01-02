@@ -1,6 +1,6 @@
-## Hi there 👋
+### Hi there 👋
 
-# Truong Vinh Phuc
+## Truong Vinh Phuc
 
 ## About Me
 
