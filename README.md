@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+# Truong Vinh Phuc
+
+## About Me
+
+I’m Phuc000, Computer Science student in Faculty of Computer Science and Engineering, Ho Chi Minh City University of Technology, Vietnam.
 <!--
 **Phuc000/Phuc000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
